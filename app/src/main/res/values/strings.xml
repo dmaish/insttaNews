@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InsttaNews</string>
+    <string name="xml_error">some xmlerror -check it out ASAP</string>
+    <string name="connection_error">some connection error -check it out ASAP</string>
+    <string name="page_title">some page title here</string>
+    <string name="updated">some page title here</string>
+</resources>
